@@ -11,5 +11,5 @@ The files work through the project in the following manners:
 
 ### Files Included
 These are the files included as part of the project and what each contains:
- - **flowers_with_data_augmentation.ipynb**
- - **flowers_with_transfer_learning.ipynb**
+ - flowers_with_data_augmentation.ipynb
+ - flowers_with_transfer_learning.ipynb
